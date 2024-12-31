@@ -1,1 +1,1 @@
-This uses kernel to manipulate the ARP table entries in order to evade anti-cheat measures. This has support for multiple entries and can easily be expanded on to be a lot better.
+This uses kernel to manipulate the ARP table entries in order to evade anti-cheat measures. This has support for multiple entries and can easily be expanded on to be a lot better. I'm aware this is already public knowledge though I haven't seen any pastes that have full manipulaion for the tables themselves.
